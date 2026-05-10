@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FreundeLol.aternos.me:40944",
+    "ip": "FreundeLol.aternos.me",
     "port": 40944,
     "version": "",
     "try-creative": false
